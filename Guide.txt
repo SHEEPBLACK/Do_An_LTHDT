@@ -1,0 +1,13 @@
+DIRECTION:
+Control your paddle to hit the ball back and forth.
+There are 2 modes of gameplay: 1 Player and 2 Players.
+The goal of 1 Player mode is to reach highest score by making the ball stay in the course.
+The goal of 2 Players mode is to reach the winning-score before the opponent does.
+
+GUIDE:
+*1 Player mode:
+Use your arrow keys to move your paddle in the down-side of the course.
+
+*2 Players mode:
+-Player 1: Use W,A,S,D keys to move your paddle in the up-side of the course.
+-Player 2: Use arrow keys to move your paddle in the down-side of the course.

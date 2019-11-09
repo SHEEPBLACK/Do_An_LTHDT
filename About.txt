@@ -1,0 +1,7 @@
+This PING PONG GAME is developed by SheepB team.
+
+SheepB team's members:
+Phan Thien Phuc - Thienphuc16066@gmail.com
+Nguyen Cong Binh Phuong - nguyencongbinhphuong12091999@gmail.com
+
+It's a free work! Please use it with educational purpose.
